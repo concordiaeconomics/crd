@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name:Hirukawa Masayuki
+Author-X-Name-First: Masayuki
+Author-X-Name-Last: Hirukawa
+Author-Email:  mhirukaw@alcor.concordia.ca
+Author-Workplace-Name: Department of Economics, Concordia University
+Title:  A Two-Stage Plug-In Bandwidth Selection and Its Implementation in Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimation
+Abstract:  The performance of a kernel HAC estimator depends on the accuracy of the estimation of
+the normalized curvature, an unknown quantity in the optimal bandwidth represented as the
+spectral density and its derivative. This paper proposes to estimate it with a general class of
+kernels. The AMSE of the kernel estimator and the AMSE-optimal bandwidth are derived. It
+is shown that the optimal bandwidth for the kernel estimator should grow at a much slower rate
+than the one for the HAC estimator with the same kernel. A solve-the-equation implementation
+method is also proposed. Finite sample performances are assessed through simulations.
+Length:  58 pages
+Creation-Date:  2004-09
+File-URL: http://economics.concordia.ca/documents/working_papers/04005mh.pdf
+File-Format: Application/pdf
+Classification-JEL:  C12, C22, C32
+Keywords: Covariance matrix estimation, Kernel estimator, Bandwidth selection, Spectral density, Asymptotic mean squared error
+Number: 04005
+Handle: RePEc:crd:wpaper:04005
+

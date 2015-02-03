@@ -1,0 +1,17 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Nikolay Gospodinov
+Author-Email: nikolay.gospodinov@concordia.ca
+Author-Homepage: http://alcor.concordia.ca/~gospodin/
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Title: A New Look at the Forward Premium Puzzle
+Abstract: This paper analyzes the sampling properties of the widely documented large negative slope estimates in regressions of future exchange returns on current forward premium. We argue that the abnormal behavior of the slope estimators in these regressions arises from the simultaneous presence of high persistence, low signal-to-noise ratio, strong endogeneity and an omitted variable problem. The paper develops the limiting theory for the slope parameter estimators in the levels and differenced forward premium regressions under some assumptions that match the empirical properties of the data. The asymptotic results derived in the paper help to reconcile the findings from the levels and difference specifications and provide important insights about the time series properties of the implied risk premium.
+Length: 36 pages
+Creation-Date: 2006-09
+Revision-Date: 2008-12
+Classification-JEL: C13; C22; F31
+Keywords: Forward premium anomaly, high persistence, low signal-to-noise ratio, local-to-unity asymptotics
+File-URL: http://alcor.concordia.ca/~gospodin/research/forwprem.pdf
+File-Format: Application/pdf
+Number:08009
+Handle: RePEc:crd:wpaper:08009

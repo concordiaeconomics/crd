@@ -1,0 +1,48 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Stephane Auray
+Author-Email: stephane.auray@gmail.com
+Author-Workplace-Name: EQUIPPE (EA 4018), Universit&eacute;s Lille Nord de France (ULCO), GREDI,
+Universit&eacute; de Sherbrooke and CIRP\Eacute;E.
+Author-Name: Paul Gomme
+Author-Email: paul.gomme@concordia.ca
+Author-Homepage: http://paulgomme.github.io
+Author-Workplace-Name: Concordia University and CIREQ
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Name: Shen Guo
+Author-Email: sguo.cufe@gmail.com
+Author-Workplace-Name: China Academy of Public Finance and Public Policy, Central University of
+Finance and Economics, Beijing, China
+Title: Nominal Rigidities, Monetary Policy and Pigou Cycles
+Abstract: Based on a two sector dynamic new Keynesian model with
+    sticky prices, this paper makes two contributions to the Pigou cycle
+    literature. First, the paper quantifies the contribution of `news
+    shocks' -- signals of future productivity changes. Maximum likelihood
+    estimates indicate that nondurable sector news shocks are roughly as
+    volatile as contemporary shocks; in the durable good sector, the
+    standard deviation of news shocks is 1/4 that of contemporaneous
+    shocks. Second, and perhaps more importantly, the paper shows that the
+    estimated interest rule contributes to Pigou cycles arising from
+    nondurable sector news shocks. In particular, the Ramsey-optimal policy
+    does not exhibit Pigou cycles while the estimated policy rule does.
+    With sticky prices, intermediate good producers set current prices
+    based on expected future marginal cost. The news shock implies a lower
+    future marginal cost, and so nondurable goods prices start falling
+    immediately. The estimated interest rate rule then prescribes a lower
+    nominal interest rate, and so a fall in both the real interest rate and
+    user cost of durables.  As a result, purchases of durables also
+    rise. In contrast, the Ramsey-optimal policy requires a higher
+    nominal interest rate because the Ramsey policy attempts to minimize
+    the distortions associated with within-sector price dispersion. The
+    resulting dynamics under the Ramsey policy are, then, essentially the
+    opposite of those under the estimated policy. Put simply, Pigou cycles
+    arise in the model precisely because the central bank accommodates
+    them.
+Length: 35 pages
+Creation-Date: 2009-07-02
+Revision-Date: 2010-04-06
+Classification-JEL: E3, E5, E4
+Keywords: Pigou cycles; monetary policy
+File-URL: http://paulgomme.github.io/Pigou.pdf
+File-Format: Application/pdf
+Number: 
+Handle: RePEc:crd:wpaper:09005

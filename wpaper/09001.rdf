@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Nikolay Gospodinov
+Author-Email: nikolay.gospodinov@concordia.ca
+Author-Homepage: http://alcor.concordia.ca/~gospodin/
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Name: Ye Tao
+Author-Email: tao627@hotmail.com
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Title: Bootstrap Unit Root Tests in Models with GARCH(1,1) Errors
+Abstract: This paper proposes a bootstrap unit root test in models with GARCH(1,1) errors and establishes its asymptotic validity under mild moment and distributional restrictions. While the proposed bootstrap test for a unit root shares the power enhancing properties of its asymptotic counterpart (Ling and Li, 2003), it offers a number of important advantages. In particular, the bootstrap procedure does not require explicit estimation of nuisance parameters that enter the distribution of the test statistic and corrects the substantial size distortions of the asymptotic test that occur for strongly heteroskedastic processes. The simulation results demonstrate the excellent finite-sample properties of the bootstrap unit root test for a wide range of GARCH specifications.
+Length: 41 pages
+Creation-Date: 2009-01
+Classification-JEL: C12, C15, C22
+Keywords: Unit root test; GARCH; Bootstrap
+File-URL: http://alcor.concordia.ca/~gospodin/research/boot_ur_garch.pdf
+File-Format: Application/pdf
+Number:09001
+Handle: RePEc:crd:wpaper:09001

@@ -1,0 +1,33 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Damba Lkhagvasuren
+Author-Email: dlkhagva@alcor.concordia.ca
+Author-Homepage: http://sites.google.com/site/dlkhagva/
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Name: Ragchaasuren Galindev
+Author-Email: g.ragchaasuren@qub.ac.uk
+Author-Homepage: http://www.qub-efrg.com/faculty-directory/47/galindev-ragchaasuren/
+Author-Workplace-Name: Queens University Belfast
+Author-Workplace-Homepage: http://www.qub.ac.uk/mgt/
+Title: Discretization of Highly-Persistent Correlated AR(1) Shocks
+Abstract: The finite state Markov-Chain approximation method developed
+by Tauchen (1986) and Tauchen and Hussey (1991) is widely used in
+economics, finance and econometrics in solving for functional
+equations where state variables follow an autoregressive process. For
+highly persistent processes, the method requires a large number of
+discrete values for the state variables to produce close
+approximations which leads to an undesirable reduction in
+computational speed, especially in multidimensional case. This paper
+proposes an alternative method of discretizing vector autoregressions.
+The method works well as an approximation and its numerical efficiency
+applies to a wide range of the parameter space.
+Length: 35 pages
+Creation-Date: 2008-09
+Revision-Date: 2008-11
+Classification-JEL: C15, C63
+Keywords: Finite State Markov-Chain Approximation, Transition Matrix,
+Numerical Methods, VAR,
+File-URL: http://sites.google.com/site/dlkhagva/paper_on_999.pdf?attredirects=0
+File-Format: Application/pdf
+Number:08012
+Handle: RePEc:crd:wpaper:08012

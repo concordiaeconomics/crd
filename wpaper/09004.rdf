@@ -1,0 +1,33 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Paul Gomme
+Author-Email: paul.gomme@concordia.ca
+Author-Homepage: http://paulgomme.github.io
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Name: Paul Klein
+Author-Email: paul.klein@uwo.ca
+Author-Homepage: http://www.paulklein.se/newsite/start/start.php
+Author-Workplace-Name: University of Western Ontario
+Author-Workplace-Homepage: http://paulklein.se/
+Title: Second-order approximation of dynamic models without the use of tensors
+Abstract: Several approaches to finding the second-order
+  approximation to a dynamic model have been proposed recently. This paper
+  differs from the existing literature in that it makes use of the Magnus
+  and Neudecker (1999) definition of the Hessian matrix. The key result is
+  a linear system of equations that characterizes the second-order
+  coefficients. No use is made of multi-dimensional arrays or tensors, a
+  practical implication of which is that it is much easier to transcribe
+  the mathematical representation of the solution into usable computer
+  code. Matlab code is available from
+  http://paulklein.se/codes.htm;
+  Fortran 90 code is available
+  from http://paulgomme.github.io/
+Length: 27 pages
+Creation-Date: 2009-02-17
+Revision-Date: 2010-04-28
+Classification-JEL: E0, C63
+Keywords: Solving dynamic models; second-order approximation
+File-URL: http://paulgomme.github.io/secondorder.pdf
+File-Format: Application/pdf
+Number: 
+Handle: RePEc:crd:wpaper:09004

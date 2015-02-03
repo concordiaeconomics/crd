@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Artem Prokhorov
+Author-Email: artem.prokhorov@concordia.ca
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Title: Second Order Bias of Quasi-MLE for Covariance Structure Models
+Abstract: Several recent papers (e.g., Newey et al., 2005; Newey and
+Smith, 2004; Anatolyev, 2005) derive general expressions for the
+second-order bias of the GMM estimator and its first-order equivalents
+such as the EL estimator. Except for some simulation evidence, it is
+unknown how these compare to the second-order bias of QMLE of covariance
+structure models. The paper derives the QMLE bias formulas for this
+general class of models. The
+bias -- identical to the EL second-order bias under normality -- depends
+on the fourth moments of data and remains the same as for EL even for
+non-normal data so long as the
+condition for equal asymptotic efficiency of QMLE and GMM derived in
+Prokhorov (2009)
+is satisfied.
+Creation-Date: 2010-01
+Classification-JEL: C13
+Keywords: (Q)MLE, GMM, EL, Covariance structures
+File-URL: http://alcor.concordia.ca/~aprokhor/papers/secondorder.pdf
+File-Format: Application/pdf
+Number:10001
+Handle: RePEc:crd:wpaper:10001

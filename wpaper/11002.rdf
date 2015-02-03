@@ -1,0 +1,14 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Christine Amsler
+Author-Workplace-Name: Michigan State University
+Author-Name: Artem Prokhorov
+Author-Workplace-Name: Concordia University and CIREQ
+Author-Name: Peter Schmidt
+Author-Workplace-Name: Michigan State University and Yonsei University
+Title: Using Copulas to Model Time Dependence in Stochastic Frontier Models
+Abstract: We consider stochastic frontier models in a panel data setting where there is dependence over time. Current methods of modelling time dependence in this setting are either unduly restrictive or computationally infeasible. Some impose restrictive assumptions on the nature of dependence such as the "scaling" property. Others involve T-dimensional integration, where T is the number of cross-sections, which may be large. Moreover, no known multivariate distribution has the property of having commonly used, convenient marginals such as normal/half-normal. We show how to use copulas to resolve these issues. The range of dependence we allow for is unrestricted and the computational task involved is easy compared to the alternatives. Also, the resulting estimators are more efficient than those that assume independence over time. We propose two alternative specifications. One applies a copula function to the distribution of the composed error term. This permits the use of MLE and GMM. The other applies a copula to the distribution of the one-sided error term. This allows for a simulated MLE and improved estimation of inefficiencies. An application demonstrates the usefulness of our approach.
+Creation-Date: 2011-08
+File-URL: http://alcor.concordia.ca/~aprokhor/papers/frontier.pdf
+File-Format: Application/pdf
+Number:11002
+Handle: RePEc:crd:wpaper:11002

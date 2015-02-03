@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Nikolay Gospodinov
+Author-Email: nikolay.gospodinov@concordia.ca
+Author-Homepage: http://alcor.concordia.ca/~gospodin/
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Name: Masayuki Hirukawa
+Author-Email: mhirukawa@niu.edu
+Author-Workplace-Name: Northern Illinois University
+Title: Nonparametric Estimation of Scalar Diffusion Processes of Interest Rates Using Asymmetric Kernels
+Abstract: This paper proposes a nonparametric regression using asymmetric kernel functions for nonnegative, absolutely regular processes, and specializes this technique to estimating scalar diffusion models of spot interest rate. We illustrate the advantages of asymmetric kernel estimators for bias correction and efficiency gains. The finite-sample properties and the practical relevance of the proposed estimators are evaluated in the context of bond and option pricing. We also present estimation results from empirical analysis of the term structure of U.S. interest rates.
+Length: 34 pages
+Creation-Date: 2008-10
+Revision-Date: 2008-12
+Classification-JEL: C13; C14; C22; E43; G13
+Keywords: Nonparametric regression; Gamma kernel; diffusion estimation; spot interest rate; derivative pricing
+File-URL: http://alcor.concordia.ca/~gospodin/research/diffusion.pdf
+File-Format: Application/pdf
+Number:08011
+Handle: RePEc:crd:wpaper:08011
