@@ -4,27 +4,29 @@ Author-Email: Stephane.AURAY@ensai.fr
 Author-Workplace-Name: CREST-Ensai and Universite du Littoral Cote d'Opale
 Author-Name: Aurelien Eyquem
 Author-Email: aurelien.eyquem@ens-lyon.fr
-Author-Workplace-Name: CREST-Ensai, CNRS, and GATE-Lyon Saint-Etienne
+Author-Workplace-Name: CREST-Ensai, GATE, UMR 5824, Universite de Lyon, and Universite Lumiere Lyon 2
 Author-Name: Paul Gomme
 Author-Email: paul.gomme@concordia.ca
 Author-Homepage: http://paulgomme.github.io
 Author-Workplace-Name: Concordia University and CIREQ
 Author-Workplace-Homepage: http://www.concordia.ca
-Title: A Tale of Tax Policies in Open Economies
-Abstract:   To evaluate fiscal policy reforms for Euro-area
-    countries, this paper develops and calibrates a small open economy model.
-    Debt reduction reforms require higher tax rates in the short term in
-    exchange for lower rates in the long term as the debt servicing burden
-    falls. Using the capital income tax to implement such a policy leads to
-    welfare gains; the consumption tax, a very small welfare gain; and the
-    labor income tax, a welfare loss.  Holding fixed the long run debt-output
-    ratio, offsetting a lower capital income tax with either a higher labor
-    income or consumption tax generally yields welfare gains.
+Title: Debt Hangover in the Aftermath of the Great Recession
+Abstract: Following the Great Recession, U.S. government debt levels exceeded
+	100% of output.  We develop a macroeconomic model to evaluate the
+	role of various shocks during and after the Great Recession; labor
+	market shocks have the greatest impact on macroeconomic activity.  We
+	then evaluate the consequences of using alternative fiscal policy
+	instruments to implement a fiscal austerity program to return the
+	debt-output ratio to its pre-Great Recession level.  Our welfare
+	analysis reveals that there is not much difference between applying
+	fiscal austerity through government spending, the labor income tax,
+	or the consumption tax; using the capital income tax is
+	welfare-reducing.
 Length: 62 pages
-Creation-Date: 2015-09
-Classification-JEL: E31, E62, F41
-Keywords: Fiscal policies, open economies, public deficits, tax reforms.
-File-URL: http://paulgomme.github.io/a-tale-of-tax-policies-2015.pdf
+Creation-Date: 2017-06
+Classification-JEL: E62, H63, E24
+Keywords: fiscal policy; fiscal austerity; Great Recession
+File-URL: http://paulgomme.github.io/debt-hangover-2017.pdf
 File-Format: Application/pdf
-Number: 15004
-Handle: RePEc:crd:wpaper:15004
+Number: 17001
+Handle: RePEc:crd:wpaper:17001
