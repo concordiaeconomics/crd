@@ -1,0 +1,32 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Stephane Auray
+Author-Email: stephane.auray@ensai.fr
+Author-Workplace-Name: CREST-Ensai and ULCO
+Author-Name: Aurelien Eyquem
+Author-Email: aurelien.eyquem@ens-lyon.fr
+Author-Workplace-Name: CREST-Ensai and Universite de Lyon
+Author-Name: Paul Gomme
+Author-Email: paul.gomme@concordia.ca
+Author-Homepage: http://paulgomme.github.io
+Author-Workplace-Name: Concordia University and CIREQ
+Author-Workplace-Homepage: http://www.concordia.ca
+Title: Ramsey-optimal Tax Reforms and Real Exchange Rate Dynamics
+Abstract: We solve for the Ramsey-optimal path for government debt, labor
+  income taxes and capital income taxes for a small open economy with an
+  endogenously-determined real exchange rate.  Due to the endogenous exchange
+  rate, the model must be solved using the `primal problem': maximize the
+  lifetime utility of the representative household subject to equilibrium
+  conditions and the government budget constraint.  The open economy
+  constrains the government's setting of the capital income tax rate since
+  physical capital cannot be dominated in rate of return by foreign assets.
+  However, the endogenous real exchange rate loosens this constraint relative
+  to a one good open economy model in which the real exchange rate is
+  necessarily fixed.
+Length: 33 pages
+Creation-Date: 2017-07
+Classification-JEL: E32, E52, F41
+Keywords: Optimal fiscal policy, Tax reforms, Welfare
+File-URL: http://paulgomme.github.io/optimal-2017-07.pdf
+File-Format: Application/pdf
+Number: 17002
+Handle: RePEc:crd:wpaper:17002
