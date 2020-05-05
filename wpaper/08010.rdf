@@ -3,19 +3,16 @@ Author-Name: Nikolay Gospodinov
 Author-Email: nikolay.gospodinov@concordia.ca
 Author-Homepage: http://alcor.concordia.ca/~gospodin/
 Author-Workplace-Name: Concordia University
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Author-Name: Taisuke Otsu
 Author-Email: taisuke.otsu@yale.edu
-Author-Homepage: http://cowles.econ.yale.edu/faculty/otsu.htm
 Author-Workplace-Name: Yale University
-Author-Workplace-Homepage: http://www.yale.edu/
+Author-Workplace-Homepage: https://www.yale.edu/
 Title: Local GMM Estimation of Time Series Models with Conditional Moment Restrictions
 Abstract: This paper investigates statistical properties of the local GMM (LGMM) estimator for some time series models defined by conditional moment restrictions. First, we consider Markov processes with possible conditional heteroskedasticity of unknown form and establish the consistency, asymptotic normality, and semi-parametric efficiency of the estimator. Second, inspired by simulation results showing that the LGMM estimator has a significantly smaller bias than the OLS estimator, we undertake a higher-order asymptotic expansion and analyze the bias properties of the LGMM estimator. The structure of the asymptotic expansion of the LGMM estimator reveals an interesting contrast with the OLS estimator that helps to explain the bias reduction in the LGMM estimator. The practical importance of these findings is evaluated in terms of a bond and option pricing exercise based on a diffusion model for spot interest rate.
 Length: 33 pages
 Creation-Date: 2008-12
 Classification-JEL: C13; C22; G12
 Keywords: Conditional moment restrictions; Local GMM; Higher-order expansion; Conditional heteroskedasticity
-File-URL: http://alcor.concordia.ca/~gospodin/research/cel_ar.pdf
-File-Format: Application/pdf
 Number:08010
 Handle: RePEc:crd:wpaper:08010

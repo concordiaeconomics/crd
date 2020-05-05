@@ -1,16 +1,16 @@
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Andres Erosa
 Author-Email: andres.erosa@imdea.org
-Author-Homepage: http://homes.chass.utoronto.ca/~aerosa
+Author-Homepage: https://homes.chass.utoronto.ca/~aerosa
 Author-Workplace-Name: Instituto Madrileño de Estudios Avanzados
 Author-Name: Tatyana Koreshkova
-Author-Email: tkoreshk@alcor.concordia.ca
-Author-Homepage: http://alcor.concordia.ca/~tkoreshk/
+Author-Email: tatyana.koreshkova@concordia.ca
+Author-Homepage: http://drtatyana.github.io
 Author-Workplace-Name: Concordia University, CIREQ
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Author-Name: Diego Restuccia
 Author-Email: diego.restuccia@utoronto.ca
-Author-Homepage: http://www.economics.utoronto.ca/diegor/
+Author-Homepage: https://www.economics.utoronto.ca/diegor/
 Author-Workplace-Name: University of Toronto
 Author-Workplace-Homepage: http://www.economics.utoronto.ca/
 Title: How Important is Human Capital? A Quantitative Theory Assessment of World Income Inequality
@@ -37,7 +37,5 @@ Creation-Date: 2009-02
 Revision-Date: 2009-03
 Classification-JEL: O1
 Keywords: output per worker, TFP, human capital, schooling, heterogeneity, inequality
-File-URL: http://alcor.concordia.ca/~tkoreshk/EKR-paper-2009.pdf
-File-Format: Application/pdf
 Number:
 Handle: RePEc:crd:wpaper:09007

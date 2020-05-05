@@ -3,12 +3,12 @@ Author-Name: Nikolay Gospodinov
 Author-Email: gospodin@alcor.concordia.ca
 Author-Homepage: http://alcor.concordia.ca/~gospodin/
 Author-Workplace-Name: Concordia University and CIREQ
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Author-Name: Damba Lkhagvasuren
 Author-Email: dlkhagva@alcor.concordia.ca
 Author-Homepage: http://sites.google.com/site/dlkhagva
 Author-Workplace-Name: Concordia University and CIREQ
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Title: A Moment-Matching Method for Approximating Vector
 Autoregressive Processes by Finite-State Markov Chains
 Abstract: This paper proposes a moment-matching method for approximating vector
@@ -25,7 +25,5 @@ Revision-Date: 2011-12-16
 Classification-JEL: C15 C60
 Keywords: Markov Chain, Vector Autoregressive Processes, Functional
 Equation, Numerical Methods, Moment Matching
-File-URL: https://sites.google.com/site/dlkhagva/var_Markov_MM.pdf
-File-Format: Application/pdf
 Number: 11005
 Handle: RePEc:crd:wpaper:11005

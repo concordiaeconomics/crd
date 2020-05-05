@@ -1,7 +1,7 @@
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Artem Prokhorov
 Author-Workplace-Name: Concordia University
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Title: On relative efficiency of Quasi-MLE and GMM estimators
 of covariance structure models
 Abstract: Optimal GMM is known to dominate Gaussian QMLE in terms of
@@ -12,7 +12,5 @@ for a general class of covariance structure models. The condition
 trivially holds for normal data but also identifies non-normal cases for
 which Gaussian QMLE is efficient.
 Creation-Date:  2008-05
-File-URL: http://alcor.concordia.ca/~aprokhor/papers/firstorder.pdf
-File-Format: Application/pdf
 Number:08004
 Handle: RePEc:crd:wpaper:08004

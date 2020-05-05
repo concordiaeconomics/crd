@@ -7,7 +7,5 @@ Title: GMM Redundancy Results for General Missing Data Problems
 Abstract: We consider questions of efficiency and redundancy in the GMM estimation problem in which we have two sets of moment conditions, where two sets of parameters enter into one set of moment conditions, while only one set of parameters enters into the other. We then apply these results to a selectivity problem in which the first set of moment conditions is for the model of interest, and the second set of moment conditions is for the selection process. We use these results to explain the counterintuitive result in the literature that, under an ignorability assumption that justifies GMM with weighted moment conditions, weighting using estimated probabilities of selection is better than weighting using the true probabilities. We also consider estimation under an exogeneity of selection assumption such that both the unweighted and the weighted moment conditions are valid, and we show that when weighting is not needed for consistency, it is also not useful for efficiency.
 Creation-Date:  2008-06
 Keywords: c13
-File-URL: http://alcor.concordia.ca/~aprokhor/papers/IPW.pdf
-File-Format: Application/pdf
 Number: 08003
 Handle: RePEc:crd:wpaper:08003

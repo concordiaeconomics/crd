@@ -1,10 +1,10 @@
 Template-Type: ReDIF-Paper 1.0
 Author-Name: Wanling Huang
 Author-Workplace-Name: Concordia University
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Author-Name: Artem Prokhorov
 Author-Workplace-Name: Concordia University and CIREQ
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Title: Bartlett-type Correction of Distance Metric Test
 Abstract: We derive a corrected distance metric (DM) test of general restrictions.  The correction factor depends on the value of the uncorrected statistic and the new statistic is
 Bartlett-type. In the setting of covariance structure models, we show using simulations
@@ -16,7 +16,5 @@ longer panels results in a reversal of the original inference.
 Creation-Date: 2010-06-29
 Classification-JEL: C12
 Keywords: Distance Metric, GMM, Asymptotic expansion, Bartlett-type correction
-File-URL: http://alcor.concordia.ca/~aprokhor/papers/bartlett.pdf
-File-Format: Application/pdf
 Number:10003
 Handle: RePEc:crd:wpaper:10003

@@ -8,10 +8,8 @@ Author-Name: Artyom Shneyerov
 Author-Email: artyom239@gmail.com 
 Author-Homepage: http://artyom239.googlepages.com 
 Author-Workplace-Name: Concordia University 
-Author-Workplace-Homepage: http://economics.concordia.ca/
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics.html
 Title: Are There Common Values in BC Timber Sales? A Tail-Index Nonparametric Test 
-File-URL: http://artyom239.googlepages.com/cvtestforsubmission.pdf
-File-Format: Application/pdf
 Abstract: We develop a new nonparametric test of common values in first-price auctions and apply it to British Columbia (BC) Timber Sales. The test is based on the behavior of the CDF of bids near the reserve price. We show that the curvature of the CDF is drastically different under private values (PV) and common values (CV). We then show that the problem of discriminating between PV and CV is equivalent to estimating the lower tail index of the bid distribution. Our approach allows for unobserved auction heterogeneity of an arbitrary form, and in particular doesn't require the number of potential bidders to be observable. Drawing on the existing and recent literature on tail index estimation, we characterize the B. Hill (1975) tail index estimator for panels with stochastic dimension and a new semi-parametric estimator of the asymptotic variance for robust inference. For BC Timber Sales, we find overwhelming support for CV. 
 Length: 42 pages 
 Creation-Date: 2009-06-20 

@@ -6,7 +6,5 @@ Author-Workplace-Name: Concordia University and CIREQ
 Title: Efficient estimation of parameters in marginals in semiparametric multivariate models
 Abstract: Recent literature on semiparametric copula models focused  on the situation when the marginals are specified nonparametrically and the copula function is given a parametric form. For example, this setup is used in Chen, Fan and Tsyrennikov (2006) [Efficient Estimation of Semiparametric Multivariate Copula Models, JASA] who focus on efficient estimation of copula parameters.  We consider a reverse situation when the marginals are specified parametrically and the copula function is modelled nonparametrically. This setting is no less relevant in applications. We use the method of sieve for efficient estimation of parameters in marginals, derive its asymptotic distribution and show that the estimator is semiparametrically efficient.  Simulations suggest that the sieve MLE can be up to 40% more efficient relative to QMLE depending on the strength of dependence between the  marginals.  An application using insurance company loss and expense data demonstrates empirical relevance of this setting.
 Creation-Date: 2011-01
-File-URL: http://alcor.concordia.ca/~aprokhor/papers/sieve.pdf
-File-Format: Application/pdf
 Number:11001
 Handle: RePEc:crd:wpaper:11001
