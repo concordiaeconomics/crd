@@ -1,0 +1,17 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Nickesha Ayoade
+Author-Email: nickeshaayoade@gmail.com
+Author-Workplace-Name: Concordia University
+Author-Name: Szilvia Pápai
+Author-Email: szilvia.papai@concordia.ca
+Author-Workplace-Name: Concordia University
+Title: School Choice with Preference Rank Classes
+Abstract: We introduce and study a large family of rules for many-to-one matching problems, the Preference Rank Partitioned (PRP) rules. PRP rules are student-proposing Deferred Acceptance rules, where the schools select among applicants in each round taking into account both the students' preferences and the schools' priorities. In a PRP rule each school first seeks to select students based on priority rank classes, and subsequently based on preference rank classes. PRP rules include many well-known matching rules, such as the standard Deferred Acceptance rule, the Boston rule, the Chinese Application-Rejection rules of Chen and Kesten (2017), the Taiwan Deduction rules of Dur et al. (2018), and the French Priority rules of Bonkoungou (2019), in addition to matching rules that have not been studied yet. We analyze the stability, efficiency and incentive properties of PRP matching rules in this unified framework.
+Length: 50 pages
+Creation-Date: 2020-02-22
+Classification-JEL: C78, D61, D78, I20
+Keywords: matching; school choice; Deferred Acceptance; Boston rule; stability 
+File-URL: https://concordiaeconomics.github.io/wp/20002.pdf
+File-Format: Application/pdf
+Number: 20002
+Handle: RePEc:crd:wpaper:20002
