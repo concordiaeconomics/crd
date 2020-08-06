@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Rouzbeh Ghouchani
+Author-Email: ghoochani.roozbeh@gmail.com
+Author-Workplace-Name: Concordia University
+Author-Name: Szilvia Pápai
+Author-Email: szilvia.papai@concordia.ca
+Author-Homepage: https://sites.google.com/site/szilviapapai/home
+Author-Workplace-Name: Concordia University
+Author-Workplace-Homepage: https://www.concordia.ca/artsci/economics/faculty.html.html?fpid=szilvia-papai
+Title: Preference Aggregation for Couples
+Abstract: We study the aggregation of a couple's preferences over their respective jobs when they enter a centralized labor market jointly, such as the market for assigning hospital residencies to medical students. Usually in such markets couples need to submit joint preferences over pairs of jobs. Starting from two individual preference orderings over jobs, we first study the Lexicographic and the Rank-Based Leximin aggregation rules, and then propose a family of aggregation rules, the k-Lexi-Pairing rules, and provide an axiomatic characterization of these rules. The parameter k indicates the degree of selfishness for one partner (and altruism for the other partner), with the least selfish Rank-Based Leximin rule at one extreme and the most selfish Lexicographic rule at the other extreme. Since couples care about geographic proximity, we also identify a simple parametric family of preference aggregation rules which build on the k-Lexi-Pairing rules and reflect the couple's preference for togetherness.  
+Length: 33 pages
+Creation-Date: 2020-08-05
+Classification-JEL: D71, D47
+Keywords: matching with couples; preference aggregation; leximin; compromise; togetherness
+File-URL: https://concordiaeconomics.github.io/wp/20006.pdf
+File-Format: Application/pdf
+Number: 20006
+Handle: RePEc:crd:wpaper:20006
